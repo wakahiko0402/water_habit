@@ -13,6 +13,10 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.water_habit.ui.theme.Water_habitTheme
 
 class MainActivity : ComponentActivity() {
+
+    /*
+    commit test 1230
+     */
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
